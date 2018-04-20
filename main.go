@@ -1,4 +1,4 @@
-package main
+package main // import "newtechlab.wtf/anxso"
 
 import (
 	"errors"
